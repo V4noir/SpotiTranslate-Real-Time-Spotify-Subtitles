@@ -24,7 +24,7 @@ Ensure you have **Python 3.x** installed. You will also need to install the foll
 ```bash
 pip install requests spotipy deep_translator customtkinter
 
-###Setup Spotify API
+Setup Spotify API
 Visit the Spotify Developer Dashboard.
 Log in and click "Create an App".
 Give it a name (e.g., "SpotiTranslate").
